@@ -1,0 +1,9 @@
+resize_algorithm = none
+hotspot_x = 0.08
+hotspot_y = 0.04
+
+define_size = 24, a2a266d0498c3104214a47bd64ab0fc8_000.png, 50
+define_size = 32, a2a266d0498c3104214a47bd64ab0fc8_001.png, 50
+define_size = 48, a2a266d0498c3104214a47bd64ab0fc8_002.png, 50
+define_size = 64, a2a266d0498c3104214a47bd64ab0fc8_003.png, 50
+

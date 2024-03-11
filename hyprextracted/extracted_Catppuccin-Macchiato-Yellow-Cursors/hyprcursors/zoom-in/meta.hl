@@ -1,0 +1,9 @@
+resize_algorithm = none
+hotspot_x = 0.42
+hotspot_y = 0.38
+
+define_size = 24, zoom-in_000.png, 50
+define_size = 32, zoom-in_001.png, 50
+define_size = 48, zoom-in_002.png, 50
+define_size = 64, zoom-in_003.png, 50
+

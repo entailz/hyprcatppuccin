@@ -1,0 +1,9 @@
+resize_algorithm = none
+hotspot_x = 0.17
+hotspot_y = 0.75
+
+define_size = 24, color-picker_000.png, 50
+define_size = 32, color-picker_001.png, 50
+define_size = 48, color-picker_002.png, 50
+define_size = 64, color-picker_003.png, 50
+

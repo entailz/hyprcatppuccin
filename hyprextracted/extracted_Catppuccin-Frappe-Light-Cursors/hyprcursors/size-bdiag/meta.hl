@@ -1,0 +1,9 @@
+resize_algorithm = none
+hotspot_x = 0.08
+hotspot_y = 0.04
+
+define_size = 24, size-bdiag_000.png, 50
+define_size = 32, size-bdiag_001.png, 50
+define_size = 48, size-bdiag_002.png, 50
+define_size = 64, size-bdiag_003.png, 50
+

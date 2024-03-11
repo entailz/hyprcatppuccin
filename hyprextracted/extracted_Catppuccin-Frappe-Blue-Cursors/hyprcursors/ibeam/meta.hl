@@ -1,0 +1,9 @@
+resize_algorithm = none
+hotspot_x = 0.46
+hotspot_y = 0.46
+
+define_size = 24, ibeam_000.png, 50
+define_size = 32, ibeam_001.png, 50
+define_size = 48, ibeam_002.png, 50
+define_size = 64, ibeam_003.png, 50
+

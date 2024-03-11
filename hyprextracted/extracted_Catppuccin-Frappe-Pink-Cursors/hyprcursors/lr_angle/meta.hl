@@ -1,0 +1,9 @@
+resize_algorithm = none
+hotspot_x = 0.79
+hotspot_y = 0.75
+
+define_size = 24, lr_angle_000.png, 50
+define_size = 32, lr_angle_001.png, 50
+define_size = 48, lr_angle_002.png, 50
+define_size = 64, lr_angle_003.png, 50
+

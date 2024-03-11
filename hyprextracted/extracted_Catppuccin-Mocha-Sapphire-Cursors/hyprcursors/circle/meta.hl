@@ -1,0 +1,9 @@
+resize_algorithm = none
+hotspot_x = 0.46
+hotspot_y = 0.46
+
+define_size = 24, circle_000.png, 50
+define_size = 32, circle_001.png, 50
+define_size = 48, circle_002.png, 50
+define_size = 64, circle_003.png, 50
+

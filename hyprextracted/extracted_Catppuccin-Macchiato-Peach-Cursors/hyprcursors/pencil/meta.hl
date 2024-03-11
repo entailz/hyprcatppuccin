@@ -1,0 +1,9 @@
+resize_algorithm = none
+hotspot_x = 0.21
+hotspot_y = 0.75
+
+define_size = 24, pencil_000.png, 50
+define_size = 32, pencil_001.png, 50
+define_size = 48, pencil_002.png, 50
+define_size = 64, pencil_003.png, 50
+
